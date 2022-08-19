@@ -5,4 +5,7 @@
     <string name="memoria_externa_publ">Memória Externa (Pública)</string>
     <string name="salvar">Salvar</string>
     <string name="ler">Ler</string>
+    <string name="message_permission_request">Você precisar habilitar essa permissão para poder ler o salvar arquivo</string>
+    <string name="permission_granted">Permissão concedida</string>
+    <string name="permission_denied">Permissão negada</string>
 </resources>
