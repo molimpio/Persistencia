@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Persistencia</string>
+    <string name="memoria_interna">Memória Interna</string>
+    <string name="memoria_externa_priv">Memória Externa (Privado)</string>
+    <string name="memoria_externa_publ">Memória Externa (Pública)</string>
+    <string name="salvar">Salvar</string>
+    <string name="ler">Ler</string>
+</resources>
